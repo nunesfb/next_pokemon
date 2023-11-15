@@ -32,7 +32,7 @@ Nesse vídeo vamos criar um projeto usando Next.js e Typescript, que consome uma
 
 ## 💻 Vídeo
 
-- [Criando e publicando um projeto com Next (Pokemons)](https://www.youtube.com/watch?v=UCO4DyxnMwA)
+- [Criando e publicando um projeto com Next (Pokemons)](https://youtu.be/npkNZlAR4cI)
 
 ## ✋🏻 Pré-requisitos
 
