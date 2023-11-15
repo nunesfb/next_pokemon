@@ -1,0 +1,61 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  min-height: 100vh;  
+}
+
+.container {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 44px;
+background-color: #F0F0F0;
+margin-top: 4%;
+width: fit-content;
+}
+
+.pokemonName {
+text-transform: uppercase;
+border-bottom: 2px solid #000;
+margin-bottom: 20px;
+padding-bottom: 2px;
+}
+
+.pokemonDetail {
+display: flex;
+flex-direction: column;
+margin: 20px;
+padding: 44px;
+background-color: #3D7DCA;  /* Cor inspirada na Pokebola */
+border-radius: 5px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra um pouco mais intensa */
+color: white; /* Texto branco para contrastar com o fundo azul */
+}
+
+.pokemonData {
+  text-align: center;
+  padding: 12px 64px;
+}
+
+.pokemonImage {
+max-width: 100%;
+height: auto;
+}
+
+.title {
+font-size: 64px;
+padding: 64px;
+}
+
+.description {
+font-size: 28px;
+padding: 44px;
+}
+
+.link {
+font-weight: bold;
+font-size: 28px;
+color: #fff;
+}
